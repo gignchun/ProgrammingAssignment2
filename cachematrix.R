@@ -1,6 +1,6 @@
 ## Assignment: Programming Assignment 2: Lexical Scoping
 ## written by Yeongmin Jang 
-
+## SHA-1 hash identifier : 69030f8d8cbe1398dab1a306ba99b3d9345d14d5
 
 ## [makeCacheMatrix] 
 ## This function creates a special "matrix" object that can cache its inverse.
